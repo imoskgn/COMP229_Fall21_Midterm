@@ -1,4 +1,10 @@
-/* custom JS goes here */
+/*  File Name: app.js
+    Student: Oscar Eduardo Gonzalez-Neira 
+    Code: 301185878
+    ---------------------------------------------
+    Date            Update
+    28/10/2021  From Mid Term template, no major changes
+*/
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){
